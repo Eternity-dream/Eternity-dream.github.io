@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.8k-_6wIf.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/template/并查集.md","filePath":"algorithm/template/并查集.md"}'),r={name:"algorithm/template/并查集.md"};function o(s,c,m,n,p,_){return e(),a("div")}const d=t(r,[["render",o]]);export{l as __pageData,d as default};

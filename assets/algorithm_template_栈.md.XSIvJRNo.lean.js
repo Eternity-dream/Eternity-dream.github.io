@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a}from"./chunks/framework.8k-_6wIf.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"algorithm/template/栈.md","filePath":"algorithm/template/栈.md"}'),r={name:"algorithm/template/栈.md"};function o(s,c,m,n,p,i){return e(),a("div")}const d=t(r,[["render",o]]);export{_ as __pageData,d as default};
